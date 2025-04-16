@@ -1,0 +1,16 @@
+<suite name="Test Suite">
+    <listeners>
+        <listener class-name="listeners.SimpleListener"/>
+    </listeners>
+
+    <test name="Regression Test">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="scripts.cinemaBookingFromHomeToolTest">
+                <methods>
+                    <include name ="verifyBookingByHomeTool"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
