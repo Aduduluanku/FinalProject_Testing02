@@ -55,6 +55,23 @@ public class MakeupClass {
         input.sendKeys(Keys.ENTER);
     }
 
+    public void markPaidAbsence(){
+        driver.findElement(By.xpath("(//tr[td//span[text()='Chưa bồi']])[1]/td[last()]//button[2]")).click();
+    }
+
+    public void rollCall(){
+        driver.findElement(By.xpath("(//tr[td//span[text()='Đã bồi']])[1]/td[last()]//button[1]")).click();
+    }
+
+    public void filterStatus(){
+        driver.findElement(By.xpath("//label[text()='Trạng thái']/following-sibling::div//div[@role='combobox']")).click();
+        driver.findElement(By.xpath("//ul[@role='listbox']/li[1]")).click();
+    }
+
+    public void filterMonth(){
+        driver.findElement(By.xpath("//label[text()='Tháng']/following-sibling::div//div[@role='combobox']")).click();
+        driver.findElement(By.xpath("//ul[@role='listbox']/li[1]")).click();
+    }
 
     public void saveButton(){
         driver.findElement(By.xpath("//button[text()='Xác nhận']")).click();

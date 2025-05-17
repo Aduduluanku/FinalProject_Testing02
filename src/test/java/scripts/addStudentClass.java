@@ -1,11 +1,14 @@
 package scripts;
 
+import listeners.SimpleListener;
 import org.openqa.selenium.By;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import pages.CreateClass;
 import pages.LoginPage;
 
+@Listeners(SimpleListener.class)
 public class addStudentClass extends BaseTest {
 
     @Test
