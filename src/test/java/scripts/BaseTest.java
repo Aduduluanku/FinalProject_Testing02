@@ -25,27 +25,28 @@ public class BaseTest {
     public void setupTest(String browser) {
         logger.info("Setting up WebDriver...");
 
-        switch (browser){
-            case "chrome":
-                WebDriverManager.chromedriver().setup();
-                driver = new ChromeDriver();
-                break;
-            case "firefox":
-                WebDriverManager.firefoxdriver().setup();
-                driver = new FirefoxDriver();
-                break;
-            case "edge":
-                WebDriverManager.edgedriver().setup();
-                driver = new EdgeDriver();
-                break;
-            default:
-                System.out.println("This browser is not support");
-        }
+//        switch (browser){
+//            case "chrome":
+//                WebDriverManager.chromedriver().setup();
+//                driver = new ChromeDriver();
+//                break;
+//            case "firefox":
+//                WebDriverManager.firefoxdriver().setup();
+//                driver = new FirefoxDriver();
+//                break;
+//            case "edge":
+//                WebDriverManager.edgedriver().setup();
+//                driver = new EdgeDriver();
+//                break;
+//            default:
+//                System.out.println("This browser is not support");
+//        }
 
         DriverFactory driverFactory = new DriverFactory();
-        driverFactory.setDriver(browser);
+        driverFactory.setDriver("chrome");
+        driver = driverFactory.getDriver();
 
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
         driver.manage().window().maximize();
         driver.get("https://olms.codedao.io.vn/login");
 
@@ -56,11 +57,11 @@ public class BaseTest {
         return driver;
     }
 
-    @AfterMethod
-    public void tearDown() {
-        if (driver != null) {
-            logger.info("Closing browser and quitting WebDriver...");
-            driver.quit();
-        }
+//    @AfterMethod
+//    public void tearDown() {
+//        if (driver != null) {
+//            logger.info("Closing browser and quitting WebDriver...");
+//            driver.quit();
+//        }
     }
-}
+//}
