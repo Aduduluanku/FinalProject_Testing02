@@ -64,8 +64,5 @@ public class DriverFactory {
     public WebDriver getDriver() {
         return threadLocalDriver.get();
     }
-    public WebDriver getDriver() {
-        return driver;
-    }
 
 }
