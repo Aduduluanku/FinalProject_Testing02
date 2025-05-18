@@ -13,4 +13,46 @@
             </class>
         </classes>
     </test>
+
+    <test name="Login Test">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="scripts.LoginTest"/>
+            <methods>
+                <include name="testLoginWithValidCredentials"/>
+            </methods>
+        </classes>
+    </test>
+
+    <test name="Home Tests">
+        <classes>
+            <class name="scripts.HomeTest">
+                <methods>
+                    <include name="testNavigateToClassListPage2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Class Management Tests">
+        <classes>
+            <class name="scripts.ClassMngTest" />
+        </classes>
+    </test>
+
+    <test name="Class View Tests">
+        <classes>
+            <class name="scripts.ClassViewTest"/>
+        </classes>
+    </test>
+
+    <test name="Attendance Mng Test">
+        <classes>
+            <class name="scripts.AttendanceMngTest">
+                <methods>
+                    <include name="filterAttendanceByClassStatus"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
 </suite>

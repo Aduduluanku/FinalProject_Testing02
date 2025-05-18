@@ -447,3 +447,662 @@
 >>>>>>> master
 [INFO ] 2025-05-18 11:17:54.247 [main] BaseTest - Setting up WebDriver...
 [INFO ] 2025-05-18 11:18:11.954 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:04:11.335 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:04:18.232 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:04:20.469 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:04:26.218 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:04:28.570 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:19:38.299 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:19:50.518 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:19:50.548 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:19:50.549 [main] LoginTest - Bắt đầu test case: testLoginWithEmptyCredentials
+[INFO ] 2025-05-18 12:19:50.556 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:19:50.668 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:20:02.287 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:20:02.288 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:20:02.289 [main] LoginTest - Bắt đầu test case: testLoginWithInvalidPassword
+[INFO ] 2025-05-18 12:20:02.290 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:20:02.390 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:20:13.829 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:20:13.830 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:20:13.831 [main] LoginTest - Bắt đầu test case: testLoginWithInvalidUsername
+[INFO ] 2025-05-18 12:20:13.832 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:20:13.941 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:20:25.446 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:20:25.447 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:20:25.447 [main] LoginTest - Bắt đầu test case: testLoginWithValidCredentials
+[INFO ] 2025-05-18 12:20:25.448 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:32:49.417 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:32:55.685 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:32:57.849 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:33:09.159 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:33:11.570 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:33:18.238 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:34:12.262 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:34:24.236 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:34:24.250 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:34:24.252 [main] LoginTest - Bắt đầu test case: testLoginWithEmptyCredentials
+[INFO ] 2025-05-18 12:34:24.257 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:34:24.361 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:34:35.737 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:34:35.738 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:34:35.738 [main] LoginTest - Bắt đầu test case: testLoginWithInvalidPassword
+[INFO ] 2025-05-18 12:34:35.739 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:34:35.866 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:34:47.211 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:34:47.212 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:34:47.213 [main] LoginTest - Bắt đầu test case: testLoginWithInvalidUsername
+[INFO ] 2025-05-18 12:34:47.214 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:34:47.340 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:34:58.844 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:34:58.845 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:34:58.846 [main] LoginTest - Bắt đầu test case: testLoginWithValidCredentials
+[INFO ] 2025-05-18 12:34:58.847 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 12:38:51.356 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 12:38:57.907 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 12:38:57.918 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 12:38:57.919 [main] LoginTest - Bắt đầu test case: testLoginWithValidCredentials
+[INFO ] 2025-05-18 12:38:57.924 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 13:38:56.758 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 13:39:04.471 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 13:39:04.484 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 13:39:04.485 [main] LoginTest - Bắt đầu test case: testLoginWithValidCredentials
+[INFO ] 2025-05-18 13:39:04.491 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 13:59:21.932 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 13:59:34.250 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 13:59:34.265 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 13:59:34.266 [main] LoginTest - Bắt đầu test case: testLoginWithValidCredentials
+[INFO ] 2025-05-18 13:59:35.452 [main] LoginTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 13:59:36.476 [main] LoginTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 13:59:36.524 [main] LoginTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 13:59:36.527 [main] LoginTest - Title của trang hiện tại là:: OLMS Admin
+[INFO ] 2025-05-18 13:59:36.530 [main] LoginTest - Test case testLoginWithValidCredentials đã hoàn thành thành công.
+[INFO ] 2025-05-18 13:59:36.532 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:01:05.864 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:01:18.121 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:01:18.135 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 14:01:18.136 [main] LoginTest - Bắt đầu test case: testLoginWithEmptyCredentials
+[WARN ] 2025-05-18 14:01:18.712 [main] LoginTest - Thực hiện đăng nhập với thông tin đăng nhập trống.
+[INFO ] 2025-05-18 14:01:18.942 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:01:19.079 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:01:25.025 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:01:25.027 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 14:01:25.027 [main] LoginTest - Bắt đầu test case: testLoginWithInvalidPassword
+[INFO ] 2025-05-18 14:01:26.191 [main] LoginTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:01:27.216 [main] LoginTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:01:27.264 [main] LoginTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:01:47.345 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:01:47.478 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:01:53.411 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:01:53.412 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 14:01:53.412 [main] LoginTest - Bắt đầu test case: testLoginWithInvalidUsername
+[INFO ] 2025-05-18 14:01:54.567 [main] LoginTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:01:55.591 [main] LoginTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:01:55.642 [main] LoginTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:02:15.695 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:02:15.800 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:02:27.694 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:02:27.695 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 14:02:27.695 [main] LoginTest - Bắt đầu test case: testLoginWithValidCredentials
+[INFO ] 2025-05-18 14:02:28.850 [main] LoginTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:02:29.873 [main] LoginTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:02:29.923 [main] LoginTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:02:29.926 [main] LoginTest - Title của trang hiện tại là:: OLMS Admin
+[INFO ] 2025-05-18 14:02:29.929 [main] LoginTest - Test case testLoginWithValidCredentials đã hoàn thành thành công.
+[INFO ] 2025-05-18 14:02:29.929 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:09:04.779 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:09:16.845 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:09:16.847 [main] BaseTest - Bắt đầu thiết lập trang HomePage.
+[INFO ] 2025-05-18 14:09:19.155 [main] BaseTest - Đã đăng nhập thành công với username 'testadmin'.
+[INFO ] 2025-05-18 14:09:19.159 [main] BaseTest - Đã xác nhận đang ở trang HomePage.
+[INFO ] 2025-05-18 14:09:19.161 [main] BaseTest - Bắt đầu test case: testNavigateToClassListPage
+[INFO ] 2025-05-18 14:09:20.203 [main] BaseTest - Đã gọi phương thức navigateToClass() để chuyển đến trang Lớp học.
+[INFO ] 2025-05-18 14:09:20.228 [main] BaseTest - Đã xác nhận điều hướng thành công đến trang Danh sách lớp học. URL hiện tại là: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:09:20.230 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:09:20.375 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:09:32.039 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:09:32.041 [main] BaseTest - Bắt đầu thiết lập trang HomePage.
+[INFO ] 2025-05-18 14:09:34.315 [main] BaseTest - Đã đăng nhập thành công với username 'testadmin'.
+[INFO ] 2025-05-18 14:09:34.319 [main] BaseTest - Đã xác nhận đang ở trang HomePage.
+[INFO ] 2025-05-18 14:09:34.319 [main] BaseTest - Bắt đầu test case: testNavigateToClassListPage 2
+[INFO ] 2025-05-18 14:09:35.395 [main] BaseTest - Đã gọi phương thức navigateToSubMenuofTraining('Lớp học') và nhận được instance của ClassMngPage.
+[INFO ] 2025-05-18 14:09:35.419 [main] BaseTest - Đã xác nhận điều hướng thành công đến trang Danh sách lớp học. URL hiện tại là: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:09:35.420 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:09:35.553 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:09:47.136 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:09:47.137 [main] BaseTest - Bắt đầu thiết lập trang HomePage.
+[INFO ] 2025-05-18 14:09:49.409 [main] BaseTest - Đã đăng nhập thành công với username 'testadmin'.
+[INFO ] 2025-05-18 14:09:49.411 [main] BaseTest - Đã xác nhận đang ở trang HomePage.
+[INFO ] 2025-05-18 14:09:49.412 [main] BaseTest - Bắt đầu test case: testOpenTrainingMenuAndObserveSubmenus
+[INFO ] 2025-05-18 14:09:49.722 [main] BaseTest - Đã di chuột đến menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:09:49.905 [main] BaseTest - Đã click vào menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:09:52.910 [main] BaseTest - Đã chờ 3 giây để quan sát các submenu.
+[INFO ] 2025-05-18 14:09:52.910 [main] BaseTest - Kết thúc test case: testOpenTrainingMenuAndObserveSubmenus. Trình duyệt sẽ đóng sau đó.
+[INFO ] 2025-05-18 14:09:52.911 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:15:00.444 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:15:12.716 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:15:12.717 [main] BaseTest - Bắt đầu thiết lập cho ClassMngTest.
+[INFO ] 2025-05-18 14:15:13.912 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:15:14.937 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:15:14.985 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:15:15.542 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:15:15.686 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 14:15:15.709 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:15:18.724 [main] BaseTest - Bắt đầu test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 14:15:20.642 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:15:20.659 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 14:15:21.687 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 14:15:22.761 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 14:15:25.766 [main] BaseTest - Kết thúc test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 14:15:25.768 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:20:20.053 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:20:26.532 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:20:26.534 [main] BaseTest - Bắt đầu thiết lập cho ClassViewTest.
+[INFO ] 2025-05-18 14:20:27.711 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:20:28.736 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:20:28.784 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:20:29.326 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:20:29.488 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 14:20:29.511 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:20:32.518 [main] BaseTest - Bắt đầu test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 14:20:33.937 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:20:33.952 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 14:20:34.965 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 14:20:36.038 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 14:20:38.162 [main] BaseTest - Đã chọn trạng thái: Bảo lưu học phí
+[INFO ] 2025-05-18 14:20:40.188 [main] BaseTest - Số lượng học viên hiển thị sau khi lọc theo trạng thái 'Bảo lưu học phí': 2
+[INFO ] 2025-05-18 14:20:40.222 [main] BaseTest - Đã so sánh và xác nhận số lượng học viên khớp với số lượng hiển thị cho trạng thái 'Bảo lưu học phí'.
+[INFO ] 2025-05-18 14:20:40.222 [main] BaseTest - Hoàn thành test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 14:20:40.224 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:24:46.856 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:24:53.209 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:24:53.211 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:24:54.405 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:24:55.431 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:24:55.479 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:24:56.039 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:24:58.042 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:24:58.192 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:24:58.193 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:24:58.209 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:25:01.218 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:25:01.218 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:25:02.342 [main] BaseTest - Đã chọn lớp học: [ON]-ClassWithFullInfo2
+[INFO ] 2025-05-18 14:25:02.342 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:25:02.344 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:25:02.482 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:25:08.491 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:25:08.492 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:25:09.651 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:25:10.669 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:25:10.716 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:25:11.193 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:25:13.206 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:25:13.351 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:25:13.352 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:25:13.369 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:25:16.372 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:25:16.372 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:25:17.989 [main] BaseTest - Đã chọn trạng thái lớp: Đã học (tất cả)
+[INFO ] 2025-05-18 14:25:17.989 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:25:17.989 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:25:18.131 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:25:24.202 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:25:24.203 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:25:25.369 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:25:26.394 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:25:26.438 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:25:26.986 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:25:28.995 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:25:29.136 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:25:29.137 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:25:29.155 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:25:32.158 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:25:32.158 [main] BaseTest - Bắt đầu test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:25:34.564 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:25:34.579 [main] BaseTest - Đã kiểm tra giá trị cơ sở đã chọn: OLMS 2
+[INFO ] 2025-05-18 14:25:34.579 [main] BaseTest - Hoàn thành test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:25:34.580 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:25:34.702 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:25:46.324 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:25:46.325 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:25:47.488 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:25:48.512 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:25:48.559 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:25:49.041 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:25:51.045 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:25:51.194 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:25:51.194 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:25:51.213 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:25:54.219 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:25:54.219 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 14:28:56.013 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:29:08.161 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:29:08.162 [main] BaseTest - Bắt đầu thiết lập cho ClassViewTest.
+[INFO ] 2025-05-18 14:29:09.351 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:29:10.374 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:29:10.422 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:29:11.022 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:29:11.181 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 14:29:11.205 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:29:14.218 [main] BaseTest - Bắt đầu test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 14:29:16.701 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:29:16.716 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 14:29:17.763 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 14:29:18.836 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 14:29:20.949 [main] BaseTest - Đã chọn trạng thái: Bảo lưu học phí
+[INFO ] 2025-05-18 14:29:22.988 [main] BaseTest - Số lượng học viên hiển thị sau khi lọc theo trạng thái 'Bảo lưu học phí': 2
+[INFO ] 2025-05-18 14:29:23.002 [main] BaseTest - Đã so sánh và xác nhận số lượng học viên khớp với số lượng hiển thị cho trạng thái 'Bảo lưu học phí'.
+[INFO ] 2025-05-18 14:29:23.002 [main] BaseTest - Hoàn thành test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 14:30:25.969 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:30:38.053 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:30:38.055 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:30:39.227 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:30:40.255 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:30:40.304 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:30:40.764 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:30:42.780 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:30:42.923 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:30:42.924 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:30:42.938 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:30:45.949 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:30:45.949 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:30:47.076 [main] BaseTest - Đã chọn lớp học: [ON]-ClassWithFullInfo2
+[INFO ] 2025-05-18 14:30:47.076 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:30:47.078 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:30:58.703 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:30:58.703 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:30:59.866 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:31:00.910 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:31:00.956 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:31:01.562 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:31:03.563 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:31:03.712 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:31:03.712 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:31:03.729 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:31:06.740 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:31:06.740 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:31:08.375 [main] BaseTest - Đã chọn trạng thái lớp: Đã học (tất cả)
+[INFO ] 2025-05-18 14:31:08.375 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:31:08.376 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:31:20.132 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:31:20.133 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:31:21.291 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:31:22.315 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:31:22.359 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:31:22.826 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:31:24.836 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:31:24.984 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:31:24.984 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:31:25.002 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:31:28.011 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:31:28.011 [main] BaseTest - Bắt đầu test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:31:30.342 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:31:30.358 [main] BaseTest - Đã kiểm tra giá trị cơ sở đã chọn: OLMS 2
+[INFO ] 2025-05-18 14:31:30.358 [main] BaseTest - Hoàn thành test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:31:30.359 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:31:42.095 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:31:42.096 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:31:43.246 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:31:44.279 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:31:44.333 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:31:44.805 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:31:46.812 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:31:46.952 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:31:46.952 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:31:46.973 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:31:49.981 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:36:58.407 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:37:10.485 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:37:12.462 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:37:24.150 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:37:24.162 [main] LoginTest - Đã khởi tạo đối tượng LoginPage thành công.
+[INFO ] 2025-05-18 14:37:24.163 [main] LoginTest - Bắt đầu test case: testLoginWithValidCredentials
+[INFO ] 2025-05-18 14:37:25.321 [main] LoginTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:37:26.346 [main] LoginTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:37:26.396 [main] LoginTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:37:26.399 [main] LoginTest - Title của trang hiện tại là:: OLMS Admin
+[INFO ] 2025-05-18 14:37:26.402 [main] LoginTest - Test case testLoginWithValidCredentials đã hoàn thành thành công.
+[INFO ] 2025-05-18 14:37:26.404 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:37:31.898 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:37:31.899 [main] BaseTest - Bắt đầu thiết lập trang HomePage.
+[INFO ] 2025-05-18 14:37:34.197 [main] BaseTest - Đã đăng nhập thành công với username 'testadmin'.
+[INFO ] 2025-05-18 14:37:34.201 [main] BaseTest - Đã xác nhận đang ở trang HomePage.
+[INFO ] 2025-05-18 14:37:34.201 [main] BaseTest - Bắt đầu test case: testNavigateToClassListPage 2
+[INFO ] 2025-05-18 14:37:35.281 [main] BaseTest - Đã gọi phương thức navigateToSubMenuofTraining('Lớp học') và nhận được instance của ClassMngPage.
+[INFO ] 2025-05-18 14:37:35.301 [main] BaseTest - Đã xác nhận điều hướng thành công đến trang Danh sách lớp học. URL hiện tại là: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:37:35.302 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:37:47.223 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:37:47.224 [main] BaseTest - Bắt đầu thiết lập cho ClassMngTest.
+[INFO ] 2025-05-18 14:37:48.396 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:37:49.417 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:37:49.471 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:37:49.959 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:37:50.136 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 14:37:50.161 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:37:53.166 [main] BaseTest - Bắt đầu test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 14:37:55.538 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:37:55.553 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 14:37:56.592 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 14:37:57.669 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 14:38:00.682 [main] BaseTest - Kết thúc test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 14:38:00.683 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:38:12.685 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:38:12.686 [main] BaseTest - Bắt đầu thiết lập cho ClassViewTest.
+[INFO ] 2025-05-18 14:38:13.840 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:38:14.866 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:38:14.912 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:38:15.475 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:38:25.819 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:38:37.792 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:38:37.793 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:38:38.947 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:38:39.976 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:38:40.022 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:38:40.532 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:38:42.539 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:38:42.686 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:38:42.686 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:38:42.705 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:38:45.708 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:38:45.708 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:38:47.316 [main] BaseTest - Đã chọn trạng thái lớp: Đã học (tất cả)
+[INFO ] 2025-05-18 14:38:47.316 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:40:48.676 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:41:00.849 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:41:00.851 [main] BaseTest - Bắt đầu thiết lập cho ClassViewTest.
+[INFO ] 2025-05-18 14:41:02.040 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:41:03.063 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:41:03.114 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:41:03.559 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:41:03.713 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 14:41:03.736 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:41:06.752 [main] BaseTest - Bắt đầu test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 14:41:08.612 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:41:08.630 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 14:41:09.662 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 14:41:10.743 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 14:41:12.871 [main] BaseTest - Đã chọn trạng thái: Bảo lưu học phí
+[INFO ] 2025-05-18 14:41:14.897 [main] BaseTest - Số lượng học viên hiển thị sau khi lọc theo trạng thái 'Bảo lưu học phí': 2
+[INFO ] 2025-05-18 14:41:14.912 [main] BaseTest - Đã so sánh và xác nhận số lượng học viên khớp với số lượng hiển thị cho trạng thái 'Bảo lưu học phí'.
+[INFO ] 2025-05-18 14:41:14.912 [main] BaseTest - Hoàn thành test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 14:47:02.306 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:47:09.084 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:47:09.085 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:47:10.259 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:47:11.316 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:47:11.369 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:47:11.888 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:47:13.900 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:47:14.056 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:47:14.057 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:47:14.070 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:47:17.071 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:47:17.071 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:47:18.200 [main] BaseTest - Đã chọn lớp học: [ON]-ClassWithFullInfo2
+[INFO ] 2025-05-18 14:47:18.200 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:47:18.202 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:47:29.996 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:47:29.997 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:47:31.151 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:47:32.172 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:47:32.220 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:47:32.836 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:47:34.838 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:47:34.979 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:47:34.979 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:47:34.999 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:47:38.011 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:47:38.011 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:47:39.626 [main] BaseTest - Đã chọn trạng thái lớp: Đã học (tất cả)
+[INFO ] 2025-05-18 14:47:39.626 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:47:39.627 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:47:51.352 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:47:51.353 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:47:52.531 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:47:53.571 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:47:53.616 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:47:54.114 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:47:56.119 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:47:56.272 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:47:56.272 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:47:56.293 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:47:59.303 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:47:59.303 [main] BaseTest - Bắt đầu test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:48:01.659 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:48:01.676 [main] BaseTest - Đã kiểm tra giá trị cơ sở đã chọn: OLMS 2
+[INFO ] 2025-05-18 14:48:01.676 [main] BaseTest - Hoàn thành test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:48:01.677 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:48:13.423 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:48:13.424 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:48:14.569 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:48:15.596 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:48:15.641 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:48:16.203 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:48:18.208 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:48:18.358 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:48:18.358 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:48:18.377 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:48:21.389 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:52:58.579 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:53:11.287 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:53:11.289 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:53:12.476 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:53:13.497 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:53:13.548 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:53:14.096 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:53:16.102 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:53:16.281 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:53:16.282 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:53:16.293 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:53:19.295 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:53:19.295 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:53:20.431 [main] BaseTest - Đã chọn lớp học: [ON]-ClassWithFullInfo2
+[INFO ] 2025-05-18 14:53:20.431 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 14:53:20.433 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:53:32.141 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:53:32.142 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:53:33.303 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:53:34.360 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:53:34.406 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:53:34.850 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:53:36.863 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:53:37.008 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:53:37.008 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:53:37.027 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:53:40.027 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:53:40.027 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:53:41.673 [main] BaseTest - Đã chọn trạng thái lớp: Đã học (tất cả)
+[INFO ] 2025-05-18 14:53:41.673 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 14:53:41.674 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:53:47.931 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:53:47.931 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:53:49.083 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:53:50.108 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:53:50.157 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:53:50.614 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:53:52.627 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:53:52.769 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:53:52.770 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:53:52.789 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:53:55.800 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:53:55.800 [main] BaseTest - Bắt đầu test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:53:58.167 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:53:58.186 [main] BaseTest - Đã kiểm tra giá trị cơ sở đã chọn: OLMS 2
+[INFO ] 2025-05-18 14:53:58.186 [main] BaseTest - Hoàn thành test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 14:53:58.187 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:54:04.515 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:54:04.516 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 14:54:05.674 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:54:06.695 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:54:06.741 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:54:07.234 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:54:09.242 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:54:09.392 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:54:09.392 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 14:54:09.412 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 14:54:12.421 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 14:57:55.181 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 14:58:07.304 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 14:58:07.305 [main] BaseTest - Bắt đầu thiết lập cho ClassMngTest.
+[INFO ] 2025-05-18 14:58:08.507 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 14:58:09.533 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 14:58:09.580 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 14:58:10.137 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 14:58:10.301 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 14:58:10.323 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 14:58:13.339 [main] BaseTest - Bắt đầu test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 14:58:15.744 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 14:58:15.761 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 14:58:16.775 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 14:58:17.856 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 14:58:20.863 [main] BaseTest - Kết thúc test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 15:00:07.868 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:00:14.365 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:00:14.367 [main] BaseTest - Bắt đầu thiết lập cho ClassMngTest.
+[INFO ] 2025-05-18 15:00:15.554 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:00:16.581 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:00:16.629 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:00:17.274 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:00:17.422 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 15:00:17.445 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 15:00:20.453 [main] BaseTest - Bắt đầu test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 15:00:22.971 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 15:00:22.987 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 15:00:23.996 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 15:00:25.071 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 15:00:28.072 [main] BaseTest - Kết thúc test case: testFilterClassesByFacilityAndTeacher.
+[INFO ] 2025-05-18 15:01:35.144 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:01:47.480 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:01:47.481 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 15:01:48.655 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:01:49.680 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:01:49.731 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:01:50.284 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:01:52.302 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:01:52.457 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:01:52.458 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 15:01:52.469 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 15:01:55.475 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:01:55.475 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 15:01:56.610 [main] BaseTest - Đã chọn lớp học: [ON]-ClassWithFullInfo2
+[INFO ] 2025-05-18 15:01:56.610 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassName.
+[INFO ] 2025-05-18 15:01:56.613 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:02:02.725 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:02:02.726 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 15:02:03.882 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:02:04.906 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:02:04.956 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:02:05.492 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:02:07.495 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:02:07.639 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:02:07.640 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 15:02:07.658 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 15:02:10.673 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:02:10.673 [main] BaseTest - Bắt đầu test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 15:02:12.301 [main] BaseTest - Đã chọn trạng thái lớp: Đã học (tất cả)
+[INFO ] 2025-05-18 15:02:12.301 [main] BaseTest - Hoàn thành test case: filterAttendanceByClassStatus.
+[INFO ] 2025-05-18 15:02:12.302 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:02:24.209 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:02:24.210 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 15:02:25.361 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:02:26.385 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:02:26.433 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:02:26.994 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:02:28.997 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:02:29.162 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:02:29.162 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 15:02:29.182 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 15:02:32.198 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:02:32.198 [main] BaseTest - Bắt đầu test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 15:02:34.603 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 15:02:34.619 [main] BaseTest - Đã kiểm tra giá trị cơ sở đã chọn: OLMS 2
+[INFO ] 2025-05-18 15:02:34.619 [main] BaseTest - Hoàn thành test case: filterAttendanceByFacility.
+[INFO ] 2025-05-18 15:02:34.620 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:02:46.506 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:02:46.507 [main] BaseTest - Bắt đầu thiết lập cho AttendanceTest.
+[INFO ] 2025-05-18 15:02:47.661 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:02:48.682 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:02:48.726 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:02:49.204 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:02:51.214 [main] BaseTest - Bắt đầu test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:02:51.369 [main] BaseTest - Đã cố gắng điều hướng đến submenu 'Điểm danh' của menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:02:51.369 [main] BaseTest - Đã kiểm tra: Điều hướng đến trang Điểm danh không bị lỗi.
+[INFO ] 2025-05-18 15:02:51.387 [main] BaseTest - Đã xác nhận đang ở trang Điểm danh. URL hiện tại: https://olms.codedao.io.vn/academic/attendance
+[INFO ] 2025-05-18 15:02:54.401 [main] BaseTest - Hoàn thành test case: navigateToAttendanceSubMenu.
+[INFO ] 2025-05-18 15:34:09.297 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:34:21.884 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:34:21.886 [main] BaseTest - Bắt đầu thiết lập cho ClassViewTest.
+[INFO ] 2025-05-18 15:34:23.072 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:34:24.098 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:34:24.147 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:34:24.655 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:34:24.801 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 15:34:24.823 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 15:34:27.838 [main] BaseTest - Bắt đầu test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 15:34:30.230 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 15:34:30.245 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 15:34:31.327 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 15:34:32.400 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 15:34:34.533 [main] BaseTest - Đã chọn trạng thái: Bảo lưu học phí
+[INFO ] 2025-05-18 15:34:36.569 [main] BaseTest - Số lượng học viên hiển thị sau khi lọc theo trạng thái 'Bảo lưu học phí': 2
+[INFO ] 2025-05-18 15:34:36.584 [main] BaseTest - Đã so sánh và xác nhận số lượng học viên khớp với số lượng hiển thị cho trạng thái 'Bảo lưu học phí'.
+[INFO ] 2025-05-18 15:34:36.585 [main] BaseTest - Hoàn thành test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 15:34:36.586 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 15:38:32.455 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:38:38.915 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:38:38.917 [main] BaseTest - Bắt đầu thiết lập cho ClassViewTest.
+[INFO ] 2025-05-18 15:38:40.094 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:38:41.138 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:38:41.185 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:38:41.666 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:38:41.823 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 15:38:41.846 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 15:38:44.851 [main] BaseTest - Bắt đầu test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 15:38:46.217 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 15:38:46.237 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 15:38:47.236 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 15:38:48.319 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 15:38:50.448 [main] BaseTest - Đã chọn trạng thái: Bảo lưu học phí
+[INFO ] 2025-05-18 15:38:52.473 [main] BaseTest - Số lượng học viên hiển thị sau khi lọc theo trạng thái 'Bảo lưu học phí': 2
+[INFO ] 2025-05-18 15:38:52.485 [main] BaseTest - Đã so sánh và xác nhận số lượng học viên khớp với số lượng hiển thị cho trạng thái 'Bảo lưu học phí'.
+[INFO ] 2025-05-18 15:38:52.485 [main] BaseTest - Hoàn thành test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 15:38:52.487 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-18 15:40:55.156 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:41:07.641 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:41:07.642 [main] BaseTest - Bắt đầu thiết lập trang HomePage.
+[INFO ] 2025-05-18 15:41:09.974 [main] BaseTest - Đã đăng nhập thành công với username 'testadmin'.
+[INFO ] 2025-05-18 15:41:09.979 [main] BaseTest - Đã xác nhận đang ở trang HomePage.
+[INFO ] 2025-05-18 15:41:09.980 [main] BaseTest - Bắt đầu test case: testNavigateToClassListPage
+[INFO ] 2025-05-18 15:41:11.053 [main] BaseTest - Đã gọi phương thức navigateToClass() để chuyển đến trang Lớp học.
+[INFO ] 2025-05-18 15:41:11.078 [main] BaseTest - Đã xác nhận điều hướng thành công đến trang Danh sách lớp học. URL hiện tại là: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 15:41:11.080 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:41:22.949 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:41:22.950 [main] BaseTest - Bắt đầu thiết lập trang HomePage.
+[INFO ] 2025-05-18 15:41:25.229 [main] BaseTest - Đã đăng nhập thành công với username 'testadmin'.
+[INFO ] 2025-05-18 15:41:25.232 [main] BaseTest - Đã xác nhận đang ở trang HomePage.
+[INFO ] 2025-05-18 15:41:25.233 [main] BaseTest - Bắt đầu test case: testNavigateToClassListPage 2
+[INFO ] 2025-05-18 15:41:26.291 [main] BaseTest - Đã gọi phương thức navigateToSubMenuofTraining('Lớp học') và nhận được instance của ClassMngPage.
+[INFO ] 2025-05-18 15:41:26.315 [main] BaseTest - Đã xác nhận điều hướng thành công đến trang Danh sách lớp học. URL hiện tại là: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 15:41:26.316 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:41:32.564 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:41:32.565 [main] BaseTest - Bắt đầu thiết lập trang HomePage.
+[INFO ] 2025-05-18 15:42:19.715 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-18 15:42:31.993 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-18 15:42:31.995 [main] BaseTest - Bắt đầu thiết lập cho ClassViewTest.
+[INFO ] 2025-05-18 15:42:33.168 [main] BaseTest - Đã nhập username: testadmin
+[INFO ] 2025-05-18 15:42:34.196 [main] BaseTest - Đã nhập password: test1234
+[INFO ] 2025-05-18 15:42:34.245 [main] BaseTest - Đã click nút đăng nhập.
+[INFO ] 2025-05-18 15:42:34.758 [main] BaseTest - Đã mở menu 'Đào tạo'.
+[INFO ] 2025-05-18 15:42:34.922 [main] BaseTest - Đã chọn submenu 'Lớp học'.
+[INFO ] 2025-05-18 15:42:34.946 [main] BaseTest - Đã xác nhận đang ở trang Danh sách lớp học. URL hiện tại: https://olms.codedao.io.vn/academic/classes
+[INFO ] 2025-05-18 15:42:37.961 [main] BaseTest - Bắt đầu test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 15:42:40.352 [main] BaseTest - Đã chọn cơ sở: OLMS 2
+[INFO ] 2025-05-18 15:42:40.371 [main] BaseTest - Đã kiểm tra và xác nhận cơ sở được chọn là: OLMS 2
+[INFO ] 2025-05-18 15:42:41.387 [main] BaseTest - Đã nhập tên giáo viên: Ánh Amy
+[INFO ] 2025-05-18 15:42:42.462 [main] BaseTest - Đã click vào lớp học có tên: Kindy 11
+[INFO ] 2025-05-18 15:42:44.582 [main] BaseTest - Đã chọn trạng thái: Bảo lưu học phí
+[INFO ] 2025-05-18 15:42:46.616 [main] BaseTest - Số lượng học viên hiển thị sau khi lọc theo trạng thái 'Bảo lưu học phí': 2
+[INFO ] 2025-05-18 15:42:46.628 [main] BaseTest - Đã so sánh và xác nhận số lượng học viên khớp với số lượng hiển thị cho trạng thái 'Bảo lưu học phí'.
+[INFO ] 2025-05-18 15:42:46.628 [main] BaseTest - Hoàn thành test case: testCountStudentsByStatus.
+[INFO ] 2025-05-18 15:42:46.630 [main] BaseTest - Closing browser and quitting WebDriver...
