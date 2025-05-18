@@ -4,12 +4,12 @@
     </listeners>
 
     <test name="Regression Test">
-        <parameter name="browser" value="firefox"/>
+        <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="scripts.cinemaBookingFromHomeToolTest">
-                <methods>
-                    <include name ="verifyBookingByHomeTool"/>
-                </methods>
+            <class name="scripts.VerifySearchTest">
+<!--                <methods>-->
+<!--                    <include name ="verifyBookingByHomeTool"/>-->
+<!--                </methods>-->
             </class>
         </classes>
     </test>

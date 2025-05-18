@@ -23,11 +23,40 @@ public class BaseTest {
 
     @BeforeMethod
     @Parameters({"browser"})
+<<<<<<< HEAD
     public void setupTest(@Optional("chrome") String browser) {
 
         DriverFactory driverFactory = new DriverFactory();
         driverFactory.setDriver(browser);
         driver = driverFactory.getDriver();
+=======
+    public void setupTest(String browser) {
+        logger.info("Setting up WebDriver...");
+
+//        switch (browser){
+//            case "chrome":
+//                WebDriverManager.chromedriver().setup();
+//                driver = new ChromeDriver();
+//                break;
+//            case "firefox":
+//                WebDriverManager.firefoxdriver().setup();
+//                driver = new FirefoxDriver();
+//                break;
+//            case "edge":
+//                WebDriverManager.edgedriver().setup();
+//                driver = new EdgeDriver();
+//                break;
+//            default:
+//                System.out.println("This browser is not support");
+//        }
+
+        DriverFactory driverFactory = new DriverFactory();
+        driverFactory.setDriver("chrome");
+        driver = driverFactory.getDriver();
+
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+        driver.manage().window().maximize();
+>>>>>>> master
         driver.get("https://olms.codedao.io.vn/login");
 
         logger.info("Navigated to test site: https://olms.codedao.io.vn/login");
@@ -44,5 +73,10 @@ public class BaseTest {
 //            logger.info("Closing browser and quitting WebDriver...");
 //            driver.quit();
 //        }
+<<<<<<< HEAD
 //    }
 }
+=======
+    }
+//}
+>>>>>>> master

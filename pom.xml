@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>cinemaDemo</artifactId>
+    <artifactId>FinalProject</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -43,9 +43,20 @@
             <version>2.24.2</version>
         </dependency>
         <dependency>
+<<<<<<< HEAD
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
             <version>5.1.2</version>
+=======
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.36</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.2.11</version>
+>>>>>>> master
         </dependency>
     </dependencies>
 
