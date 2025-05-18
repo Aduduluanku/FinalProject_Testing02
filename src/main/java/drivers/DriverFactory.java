@@ -19,13 +19,13 @@ public class DriverFactory {
         switch (browser.toLowerCase()) {
             case "chrome":
                 WebDriverManager.chromedriver().setup();
-<<<<<<< HEAD
+
                 ChromeOptions options = new ChromeOptions();
                 options.addArguments("--disable-features=PasswordLeakDetection");
                 options.addArguments("--disable-notifications");
                 options.addArguments("--disable-popup-blocking");
                 driver = new ChromeDriver(options);
-=======
+
                 ChromeOptions chromeOptions = new ChromeOptions();
 
                 // ✅ Tắt các cảnh báo liên quan đến mật khẩu, bảo mật
@@ -39,7 +39,7 @@ public class DriverFactory {
                 chromeOptions.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
 
                 driver = new ChromeDriver(chromeOptions);
->>>>>>> master
+
                 break;
 
             case "firefox":
